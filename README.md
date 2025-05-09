@@ -56,7 +56,7 @@
 ### Option 1: Using Python
 
 ```bash
-python todo_app.py
+python To-Do.py
 ```
 
 > Requires Python 3.6+
@@ -72,10 +72,10 @@ pip install pyinstaller
 Build the `.exe`:
 
 ```bash
-pyinstaller --onefile --noconsole todo_app.py
+pyinstaller --onefile --noconsole To-Do.py
 ```
 
-Your executable will appear inside `/dist/todo_app.exe`.
+Your executable will appear inside `/dist/To-Do.exe`.
 
 ---
 
@@ -90,36 +90,22 @@ This app was built to:
 
 ---
 
-## 🔗 LinkedIn Post Suggestion
-
-> 🚀 I just built a **fully functional, dark-themed To-Do List desktop app** using only **Python & Tkinter**!
-> 
-> ✔️ Add, complete, delete tasks  
-> 🌑 Sleek dark UI with scrolling  
-> 📦 Built the `.exe` using PyInstaller  
->
-> 🔧 Ideal for productivity lovers and those exploring Python GUI development!
->
-> 💬 Open to feedback or ideas — check it out or DM me if you want to build similar apps together!
-
----
 
 ## 📁 Folder Structure
 
 ```
-📁 todo_app/
-│
-├── todo_app.py         # Main app file
-├── README.md           # This file
-├── icon.ico (optional) # App icon
-├── dist/               # PyInstaller output
-└── build/              # Temporary build files
+![image](https://github.com/user-attachments/assets/e31646c7-e3e1-4793-97c5-3d64ec16eab2)
+
 ```
 
 ---
 
 ## 💬 Contact / Let’s Connect
 
-🔗 [Your LinkedIn Profile]  
-🐙 [GitHub Repository Link (if public)]  
-📧 Email: you@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/kanishka96/)
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by Kanishka Peramunugama
