@@ -91,13 +91,6 @@ This app was built to:
 ---
 
 
-## 📁 Folder Structure
-
-![image](https://github.com/user-attachments/assets/5189a16c-8278-4732-9e98-ece1fe351820)
-
-
----
-
 ## 💬 Contact / Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kanishka96/)
