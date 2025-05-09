@@ -27,9 +27,11 @@ class TaskList(tk.Tk):
     def add_task(self, event=None):
         task_text = self.new_task.get(1.0, tk.END).strip()
         
-        task_label = tk.Label(self, text=task_text)
+        task_label = tk.Label(self, text=task_text, pady=10)
         task_label.pack()
         self.tasks.append(task_label)
+        
+        self.new_task.delete(1.0, tk.END)
 
 if __name__ == "__main__":
     task_list = TaskList()
