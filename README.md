@@ -93,10 +93,8 @@ This app was built to:
 
 ## 📁 Folder Structure
 
-```
-![image](https://github.com/user-attachments/assets/e31646c7-e3e1-4793-97c5-3d64ec16eab2)
+![image](https://github.com/user-attachments/assets/5189a16c-8278-4732-9e98-ece1fe351820)
 
-```
 
 ---
 
